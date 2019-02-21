@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TfrrsCrawlerGUI", "WpfApp1\TfrrsCrawlerGUI.csproj", "{9484D740-B940-44E3-AE7F-7F9F98D3AFF3}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "AI Setup Project1", "AI Setup Project1\AI Setup Project1.aiproj", "{34C77DAF-3FC5-4E50-A28B-88DF4969D5BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9484D740-B940-44E3-AE7F-7F9F98D3AFF3}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{9484D740-B940-44E3-AE7F-7F9F98D3AFF3}.All|Any CPU.Build.0 = Release|Any CPU
+		{9484D740-B940-44E3-AE7F-7F9F98D3AFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9484D740-B940-44E3-AE7F-7F9F98D3AFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9484D740-B940-44E3-AE7F-7F9F98D3AFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9484D740-B940-44E3-AE7F-7F9F98D3AFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C77DAF-3FC5-4E50-A28B-88DF4969D5BD}.All|Any CPU.ActiveCfg = DefaultBuild
+		{34C77DAF-3FC5-4E50-A28B-88DF4969D5BD}.All|Any CPU.Build.0 = DefaultBuild
+		{34C77DAF-3FC5-4E50-A28B-88DF4969D5BD}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{34C77DAF-3FC5-4E50-A28B-88DF4969D5BD}.Debug|Any CPU.Build.0 = DefaultBuild
+		{34C77DAF-3FC5-4E50-A28B-88DF4969D5BD}.Release|Any CPU.ActiveCfg = DefaultBuild
+		{34C77DAF-3FC5-4E50-A28B-88DF4969D5BD}.Release|Any CPU.Build.0 = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C273CA18-022A-4DE9-93F6-062C48272560}
+	EndGlobalSection
+EndGlobal
